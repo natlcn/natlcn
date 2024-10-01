@@ -14,6 +14,12 @@
 <li> The personality trait of a ENFJ-T (protagonist) has a blend of empathy, idealism, and charisma. They have a natural ability to inspire and lead others based on the individuals deep desire make a positive impact with the world around us. With passion and convition, strong communication allows these individuals to articulate visionary objectives. These individuals thrive on meaningful connection within a the workplace. With this type of personality, it draws others into the individuals orbit and motivating them to bring out their best work and remarkable talent out into the work field. </li>
     <h4> Looking forward... </h4>
     <li> Hoping to positively impact my classmates and work in collaborative environments. </li>
+    <h4> Classes: 📚 </h4>
+    <li> Introduction to Web Communications</li>
+    <li> Technical Communications 1 </li>
+    <li> Digital Media Foundations </li>
+    <li> Critical Thinking </li>
+    <li> Introduction to Visual Design </li>
     <p> 🔭 I’m currently working on ...
         <li> Planning on staying on top of WEBB COMMS and VISUAL DSGN courses. They need a lot of focus, motivation, and practice. </li>
     </p>
