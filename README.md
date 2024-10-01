@@ -20,6 +20,7 @@
     <li> Digital Media Foundations </li>
     <li> Critical Thinking </li>
     <li> Introduction to Visual Design </li>
+    <br> </br>
     <p> 🔭 I’m currently working on ...
         <li> Planning on staying on top of WEBB COMMS and VISUAL DSGN courses. They need a lot of focus, motivation, and practice. </li>
     </p>
@@ -40,7 +41,6 @@
         <li> SAIT email: NathalieIya.Licuanan@edu.sait.ab </li>
         <li> Personal email: nathalielicuanan27@gmail.com </li>
         <li> Instagram 📷: nathalielcnn </li>
-        <li> 
     </p>
 
 </html>
