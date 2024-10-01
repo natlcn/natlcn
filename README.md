@@ -10,7 +10,6 @@
         <h1> About me! :3</h1>
     </header>
     <h2> Personality Trait </h2>
-
     <h3> ENFJ-T </h3>
 
     <li>The personality trait of a ENFJ-T (protagonist) has a blend of empathy, idealism, and charisma. They have a natural ability to inspire and lead others based on the individuals deep desire make a positive impact with the world around us. With passion and convition, strong communication allows these individuals to articulate visionary objectives. These individuals thrive on meaningful connection within a the workplace. With this type of personality, it draws others into the individuals orbit and motivating them to bring out their best work and remarkable talent out into the work field. </li>
