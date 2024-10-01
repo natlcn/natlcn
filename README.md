@@ -8,10 +8,11 @@
 <body>
     <header>
         <h1> About me! :3</h1>
+        <h1 style="background-color:DodgerBlue;">About me! </h1>
     </header>
     <h2> Personality Trait </h2>
     <h3> ENFJ-T </h3>
-    <li> The personality trait of a ENFJ-T (protagonist) has a blend of empahty, idealism, and charisma. They have a natural ability to inspire and lead others based on the individuals deep desire make a positive impact with the world around us. With passion and convition, strong communication allows these individuals to articulate visionary objectives. These individuals thrive on meaningful connection within a the workplace. With this type of personality, it draws others into the individuals orbit and motivating them to bring out their best work and remarkable talent out into the work field. </li>
+    <li>The personality trait of a ENFJ-T (protagonist) has a blend of empahty, idealism, and charisma. They have a natural ability to inspire and lead others based on the individuals deep desire make a positive impact with the world around us. With passion and convition, strong communication allows these individuals to articulate visionary objectives. These individuals thrive on meaningful connection within a the workplace. With this type of personality, it draws others into the individuals orbit and motivating them to bring out their best work and remarkable talent out into the work field. </li>
     <h4> Looking forward... </h4>
     <li> Hoping to positively impact my classmates and work in collaborative environments. </li>
     <p> 🔭 I’m currently working on ...
@@ -35,6 +36,7 @@
         <li> Personal email: nathalielicuanan27@gmail.com </li>
         <li> Instagram 📷: nathalielcnn </li>
     </p>
+
    
 </body>
 </html>
