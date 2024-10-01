@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
     <header>
         <h1> About me! :3</h1>
     </header>
@@ -37,6 +36,6 @@
         <li> Instagram 📷: nathalielcnn </li>
         <li> 
     </p>
-</body>
+
 </html>
 
